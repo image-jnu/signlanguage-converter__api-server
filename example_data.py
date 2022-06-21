@@ -4,24 +4,21 @@ ANIMATION_DATA = {
       {
         'id': 'template_1',
         'expMotion': {
-          'id': 'expContent_1',
-          'resPath': 'tk/0_GIST_1.fbx',
+          'id': 'anim:180',
           'type': 'expMotion',
           'offsets': {
             'facialAnimTiming': 0.0
           }
         },
         'fingerMotion': {
-          'id': 'fingerContent_1',
-          'resPath': 'tk/1_GIST_1.fbx',
+          'id': 'anim:185',
           'type': 'fingerMotion',
           'offsets': {
             'facialAnimTiming': 0.0
           }
         },
         'bodyMotion': {
-          'id': 'bodyContent_1',
-          'resPath': 'tk/2_GIST_1.fbx',
+          'id': 'anim:110',
           'type': 'bodyMotion',
           'offsets': {
             'facialAnimTiming': 0.0
@@ -34,24 +31,21 @@ ANIMATION_DATA = {
       {
         'id': 'template_1',
         'expMotion': {
-          'id': 'expContent_1',
-          'resPath': 'tk/3_GIST_1.fbx',
+          'id': 'anim:140',
           'type': 'expMotion',
           'offsets': {
             'facialAnimTiming': 0.0
           }
         },
         'fingerMotion': {
-          'id': 'fingerContent_1',
-          'resPath': 'tk/4_GIST_1.fbx',
+          'id': 'anim:109',
           'type': 'fingerMotion',
           'offsets': {
             'facialAnimTiming': 0.0
           }
         },
         'bodyMotion': {
-          'id': 'bodyContent_1',
-          'resPath': 'tk/5_GIST_1.fbx',
+          'id': 'anim:151',
           'type': 'bodyMotion',
           'offsets': {
             'facialAnimTiming': 0.0
@@ -64,24 +58,21 @@ ANIMATION_DATA = {
       {
         'id': 'template_1',
         'expMotion': {
-          'id': 'expContent_1',
-          'resPath': 'tk/6_GIST_1.fbx',
+          'id': 'anim:103',
           'type': 'expMotion',
           'offsets': {
             'facialAnimTiming': 0.0
           }
         },
         'fingerMotion': {
-          'id': 'fingerContent_1',
-          'resPath': 'tk/7_GIST_1.fbx',
+          'id': 'anim:189',
           'type': 'fingerMotion',
           'offsets': {
             'facialAnimTiming': 0.0
           }
         },
         'bodyMotion': {
-          'id': 'bodyContent_1',
-          'resPath': 'tk/8_GIST_1.fbx',
+          'id': 'anim:173',
           'type': 'bodyMotion',
           'offsets': {
             'facialAnimTiming': 0.0
