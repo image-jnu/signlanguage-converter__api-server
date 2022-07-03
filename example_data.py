@@ -1,86 +1,131 @@
 ANIMATION_DATA = {
   'example_1': {
-    'data': [
+    "data": [
       {
-        'id': 'template_1',
-        'expMotion': {
-          'id': 'anim:180',
-          'type': 'expMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "id": "template_1",
+        "expMotion": {
+          "id": "anim.idmc:0",
+          "type": "expMotion"
         },
-        'fingerMotion': {
-          'id': 'anim:185',
-          'type': 'fingerMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "fingerMotion": {
+          "id": "anim.idmc:1",
+          "type": "fingerMotion"
         },
-        'bodyMotion': {
-          'id': 'anim:110',
-          'type': 'bodyMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "bodyMotion": {
+          "id": "anim.idmc:2",
+          "type": "bodyMotion"
         },
-        'isExpMotionEnabled': True,
-        'isFingerMotionEnabled': False,
-        'isBodyMotionEnabled': False
+        "isExpMotionEnabled": True,
+        "isFingerMotionEnabled": False,
+        "isBodyMotionEnabled": False,
+        "offsets": {
+          "facialAnimTiming": 0.0
+        }
       },
       {
-        'id': 'template_1',
-        'expMotion': {
-          'id': 'anim:140',
-          'type': 'expMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "id": "template_1",
+        "expMotion": {
+          "id": "anim.idmc:3",
+          "type": "expMotion"
         },
-        'fingerMotion': {
-          'id': 'anim:109',
-          'type': 'fingerMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "fingerMotion": {
+          "id": "anim.idmc:4",
+          "type": "fingerMotion"
         },
-        'bodyMotion': {
-          'id': 'anim:151',
-          'type': 'bodyMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "bodyMotion": {
+          "id": "anim.idmc:5",
+          "type": "bodyMotion"
         },
-        'isExpMotionEnabled': True,
-        'isFingerMotionEnabled': False,
-        'isBodyMotionEnabled': False
+        "isExpMotionEnabled": True,
+        "isFingerMotionEnabled": False,
+        "isBodyMotionEnabled": False,
+        "offsets": {
+          "facialAnimTiming": 0.0
+        }
       },
       {
-        'id': 'template_1',
-        'expMotion': {
-          'id': 'anim:103',
-          'type': 'expMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "id": "template_1",
+        "expMotion": {
+          "id": "anim.idmc:0",
+          "type": "expMotion"
         },
-        'fingerMotion': {
-          'id': 'anim:189',
-          'type': 'fingerMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "fingerMotion": {
+          "id": "anim.idmc:1",
+          "type": "fingerMotion"
         },
-        'bodyMotion': {
-          'id': 'anim:173',
-          'type': 'bodyMotion',
-          'offsets': {
-            'facialAnimTiming': 0.0
-          }
+        "bodyMotion": {
+          "id": "anim.idmc:2",
+          "type": "bodyMotion"
         },
-        'isExpMotionEnabled': True,
-        'isFingerMotionEnabled': False,
-        'isBodyMotionEnabled': False
+        "isExpMotionEnabled": True,
+        "isFingerMotionEnabled": False,
+        "isBodyMotionEnabled": False,
+        "offsets": {
+          "facialAnimTiming": 0.0
+        }
+      },
+      {
+        "id": "template_1",
+        "expMotion": {
+          "id": "anim.idmc:3",
+          "type": "expMotion"
+        },
+        "fingerMotion": {
+          "id": "anim.idmc:4",
+          "type": "fingerMotion"
+        },
+        "bodyMotion": {
+          "id": "anim.idmc:5",
+          "type": "bodyMotion"
+        },
+        "isExpMotionEnabled": True,
+        "isFingerMotionEnabled": False,
+        "isBodyMotionEnabled": False,
+        "offsets": {
+          "facialAnimTiming": 0.0
+        }
+      },
+      {
+        "id": "template_1",
+        "expMotion": {
+          "id": "anim.idmc:0",
+          "type": "expMotion"
+        },
+        "fingerMotion": {
+          "id": "anim.idmc:1",
+          "type": "fingerMotion"
+        },
+        "bodyMotion": {
+          "id": "anim.idmc:2",
+          "type": "bodyMotion"
+        },
+        "isExpMotionEnabled": True,
+        "isFingerMotionEnabled": False,
+        "isBodyMotionEnabled": False,
+        "offsets": {
+          "facialAnimTiming": 0.0
+        }
+      },
+      {
+        "id": "template_1",
+        "expMotion": {
+          "id": "anim.idmc:3",
+          "type": "expMotion"
+        },
+        "fingerMotion": {
+          "id": "anim.idmc:4",
+          "type": "fingerMotion"
+        },
+        "bodyMotion": {
+          "id": "anim.idmc:5",
+          "type": "bodyMotion"
+        },
+        "isExpMotionEnabled": True,
+        "isFingerMotionEnabled": False,
+        "isBodyMotionEnabled": False,
+        "offsets": {
+          "facialAnimTiming": 0.0
+        }
       }
     ]
   }
